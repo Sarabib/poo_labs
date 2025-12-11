@@ -1,0 +1,22 @@
+Carlos Perez,carlos.perez@email.com,1017583421,pass123,admin,0
+Ana Garcia,ana.garcia@email.com,4321908765,segura456,cliente,5200
+Luis Torres,luis.torres@email.com,8765432109,clave789,admin,0
+Sofia Ramirez,sofia.ramirez@email.com,6543219870,miid101,cliente,3400
+Javier Soto,javier.soto@email.com,9876543210,accesoA,admin,0
+Elena Vidal,elena.vidal@email.com,5432109876,passB45,cliente,7600
+Miguel Ruiz,miguel.ruiz@email.com,1122334455,adminKey,admin,0
+Paula Nunez,paula.nunez@email.com,7766554433,secureP8,cliente,2800
+Ricardo Gomez,ricardo.gomez@email.com,2233445566,claveAdm,admin,0
+Valeria Diaz,valeria.diaz@email.com,6677889900,pass1234,cliente,6500
+Andres Castro,andres.castro@email.com,1357924680,dataAdm,admin,0
+Isabella Mora,isabella.mora@email.com,2468013579,userPass,cliente,4100
+Daniel Vega,daniel.vega@email.com,3691248057,vegaAdm5,admin,0
+Laura Flores,laura.flores@email.com,9753108642,laura987,cliente,3900
+Jorge Ramos,jorge.ramos@email.com,1086420975,ramosJ2,admin,0
+Camila Ochoa,camila.ochoa@email.com,8642097531,camila1A,cliente,5700
+Hector Solis,hector.solis@email.com,7531986420,solisAdm,admin,0
+Mariana Cruz,mariana.cruz@email.com,5319864207,marianaP,cliente,3200
+Pedro Luna,pedro.luna@email.com,3198642075,lunaAdm,admin,0
+Lucia Rojas,lucia.rojas@email.com,9988776655,rojasL3,cliente,8300
+
+1	1	1	1	1
